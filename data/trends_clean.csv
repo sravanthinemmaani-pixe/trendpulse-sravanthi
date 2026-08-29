@@ -1,0 +1,88 @@
+post_id,title,category,score,num_comments,author,collected_at
+49485416,I accidentally turned LLM memory into program analysis,technology,68,10,matt_d,2026-08-29 10:11:26
+49477854,U.S. sanctions against the A/I Collective,technology,521,491,exiguus,2026-08-29 10:11:26
+49486081,"StemDeck, a free, open-source and local AI stem separator",technology,44,11,thclpr,2026-08-29 10:11:26
+49484925,Identifying fake cosmetics using AI,technology,42,14,wgrover,2026-08-29 10:11:26
+49479072,Verschlimmbesserung: The Word Your Software Updates Need,technology,114,73,speckx,2026-08-29 10:11:26
+49415923,Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention,technology,33,2,boyter,2026-08-29 10:11:26
+49483816,Stopping the smart TV from being used against you,technology,164,135,speckx,2026-08-29 10:11:26
+49475079,Luanti removed from Google Play due to baseless AI copyright notice,technology,472,144,miniBill,2026-08-29 10:11:26
+49486188,OpenAI and Anthropic are ruining San Francisco,technology,13,5,catchmeifyoucan,2026-08-29 10:11:26
+49486272,ASCII City: Traffic and Detail Update [video],technology,8,0,guiambros,2026-08-29 10:11:26
+49436886,The ArtQrCode a twist on the classic black and white Quick Response Code,technology,6,2,Bluestein,2026-08-29 10:11:26
+49478091,I used AWS cognito for a startup. I wouldn't do it again,technology,171,120,speckx,2026-08-29 10:11:26
+49474786,Sovereign Tech Agency invests €500k in Flatpak,technology,251,135,eigenspace,2026-08-29 10:11:26
+49472820,Terminal-Bench-Science: Evaluating AI agents on scientific research workflows,technology,114,35,matt_d,2026-08-29 10:11:26
+49486278,"""We quit the CDC last year. The problems we protested remain""",technology,6,0,EA-3167,2026-08-29 10:11:26
+49483436,Show HN: Hacker News Client with Claude Code and Codex Integration,technology,7,0,kamranahmedse,2026-08-29 10:11:26
+49458875,Humanity has the debate about AI consciousness backwards,technology,114,359,semiquaver,2026-08-29 10:11:26
+49464314,"MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",technology,140,82,pbui,2026-08-29 10:11:26
+49477311,AI Agent Has Root,technology,38,64,lowcache,2026-08-29 10:11:26
+49468642,We found a division by zero bug in FFmpeg with a vibecoded fuzzer,technology,288,251,dclavijo,2026-08-29 10:11:26
+49485536,"Long March 6C rocket stage fragments in orbit, creating cloud of debris",technology,7,0,bookmtn,2026-08-29 10:11:26
+49478170,KHMS – a file-based long-term memory an LLM agent installs into itself,technology,10,0,ksxcz,2026-08-29 10:11:26
+49466715,Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots,technology,47,31,Salem_robotics,2026-08-29 10:11:26
+49484743,AI demands more engineering discipline. Not less,technology,9,1,fagnerbrack,2026-08-29 10:11:26
+49458418,CEO fired developers to make room for AI. Developers create open source AI CEO,technology,1009,703,GrumpySciGuy,2026-08-29 10:11:26
+49485532,Does the Sumerian King List Align with Paleoclimate Events?,worldnews,72,21,dev_l1x_be,2026-08-29 10:11:26
+49441316,Global demand for sand spawned a worldwide boom in illegal mining (2015),worldnews,60,26,EndXA,2026-08-29 10:11:26
+49475979,Interactive Warhammer 40k Galaxy Map,worldnews,129,43,gbxyz,2026-08-29 10:11:26
+49479898,"Barrier lake continues to pose flood risk, China warns",worldnews,88,21,r721,2026-08-29 10:11:26
+49468834,Previewing the Model Hardware Standard,worldnews,133,59,surprisetalk,2026-08-29 10:11:26
+49464391,"US Government designates host of noblogs.org a ""global terrorist""",worldnews,252,136,robtherobber,2026-08-29 10:11:26
+49479872,Army Awards $2.2B for 'Microreactors' On U.S. Bases,worldnews,18,2,lxm,2026-08-29 10:11:26
+49432201,How credit card rewards became a $9.2B wealth transfer,worldnews,254,447,conbrian,2026-08-29 10:11:26
+49485316,Xylitol linked to strokes and heart attacks,worldnews,7,1,yonibot,2026-08-29 10:11:26
+49444232,Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War,worldnews,99,24,jnord,2026-08-29 10:11:26
+49475404,"Climate change is strengthening El Niño, coral records suggest",worldnews,119,122,shymaple,2026-08-29 10:11:26
+49481582,Freedom for Hacking!!1 - Renewing DMCA exemptions for software freedom,worldnews,5,0,hn_acker,2026-08-29 10:11:26
+49425800,Vintage Artificial Intelligence: Before It Got Awkward,worldnews,161,31,signor_bosco,2026-08-29 10:11:26
+49422227,Characterizing Agentic Flooding of Government Services,worldnews,81,87,lensecat,2026-08-29 10:11:26
+49470237,"Unmasking TeamPCP, King of Software Supply Chain Attacks",worldnews,5,0,882542F3884314B,2026-08-29 10:11:26
+49467636,Dwarf Fortress is getting the mother of all magic updates,worldnews,42,4,Tomte,2026-08-29 10:11:26
+49472416,"Australia is the safest place during a global catastrophe, study suggests",worldnews,27,16,thedreammachine,2026-08-29 10:11:26
+49435781,Warnock: Harnessing GPU geometry amplification for vector graphics,worldnews,45,4,coffeeaddict1,2026-08-29 10:11:26
+49469753,Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft,worldnews,27,15,SLHamlet,2026-08-29 10:11:26
+49454366,Six government passport CAs that Python rejects and OpenSSL accepts,worldnews,18,6,Eginn-33,2026-08-29 10:11:26
+49477339,Forward-deployed engineer: a $247k to $552k salary jump,worldnews,7,2,igor_ryabenkiy,2026-08-29 10:11:26
+49473279,Are Vandals Winning the War on Flock Cameras? [video],worldnews,18,1,Cider9986,2026-08-29 10:11:26
+49477217,"Show HN: Texttile, a multiplayer blog engine for people who write together",sports,13,3,klausbreyer,2026-08-29 10:11:26
+49466006,Decompiling a Nintendo 64 game in 84 days,sports,266,179,knackers,2026-08-29 10:11:26
+49445252,Disrupting a new covert influence campaign from Russia,sports,96,66,sam_lowry_,2026-08-29 10:11:26
+49480534,Mobile Games Designed to Be Addictive Get More Kid-Friendly,sports,8,0,BloodOrb2,2026-08-29 10:11:26
+49463464,Two Alleged 'TeamPCP' Hackers Arrested in Australia,sports,20,2,hacb,2026-08-29 10:11:26
+49422784,The entire city of San Francisco as a video game,sports,608,171,centrosphere,2026-08-29 10:11:26
+49477732,Authorities arrest 2 alleged members of prolific hacking group TeamPCP,sports,8,0,furcyd,2026-08-29 10:11:26
+49477504,Ask HN: Any blogs/personal notes from game devs who self-published a game?,sports,5,0,ssenssei,2026-08-29 10:11:26
+49459061,Meta's self-inflicted resignation-wave,sports,44,1,andsoitis,2026-08-29 10:11:26
+49455695,Show HN: Every push-up becomes an attack in a camera-counted RPG game,sports,21,7,not_wowinter13,2026-08-29 10:11:26
+49469249,Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force,sports,91,40,rarisma,2026-08-29 10:11:26
+49486172,Our decision on Cursor following its acquisition by SpaceX,science,216,80,meetpateltech,2026-08-29 10:11:26
+49481455,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,science,89,23,stephenchung,2026-08-29 10:11:26
+49486297,Our decision on Cursor following its acquisition by SpaceX,science,10,1,qainsights,2026-08-29 10:11:26
+49477925,Interactive pattern discovery in binaries (FF-16-TUI),science,28,3,HexLasso,2026-08-29 10:11:26
+49482833,Nancy Grace Roman Space Telescope Launches this Sunday,science,6,0,topspin,2026-08-29 10:11:26
+49466989,Why HPSC Is a Big Deal for Space Exploration,science,27,8,mooreds,2026-08-29 10:11:26
+49477561,"Canada recruits foreign scientists, researchers poaching many from U.S.",science,12,1,BiraIgnacio,2026-08-29 10:11:26
+49467699,Compromising Signal's Contact Discovery Enclave (SGX),science,12,4,RobLach,2026-08-29 10:11:26
+49420530,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,science,230,108,brandonb,2026-08-29 10:11:26
+49453656,"In Hilbert Space, All Things Are Quantumly Possible",science,10,1,ibobev,2026-08-29 10:11:26
+49450500,Show HN: TexLite – A lightweight self-hosted LaTeX workspace,science,21,2,thisispi,2026-08-29 10:11:26
+49418813,Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo,entertainment,11,2,rbanffy,2026-08-29 10:11:26
+49483038,"Show HN: Sesame - a local-first, open-source password manager",entertainment,44,50,d0mkaaa,2026-08-29 10:11:26
+49476894,Show HN: SubSmith – Turn your own videos into language-learning material,entertainment,64,51,IbrahimF96,2026-08-29 10:11:26
+49481956,Show HN: Blast – Open-source sandbox-as-a-service,entertainment,9,0,calebhwin,2026-08-29 10:11:26
+49461817,Show HN: The load-bearing vocabulary of Claude,entertainment,653,315,Labo333,2026-08-29 10:11:26
+49471965,"Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",entertainment,217,54,elyosh,2026-08-29 10:11:26
+49483173,"Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",entertainment,20,3,sudhendra1,2026-08-29 10:11:26
+49466704,"Show HN: Watches user sessions, finds bugs that matter, and fixes them",entertainment,35,11,aray07,2026-08-29 10:11:26
+49482925,The Analytical AI Handbook,entertainment,46,2,sethkim,2026-08-29 10:11:26
+49471407,Show HN: We built open OpenRouter that turns usage into a better model,entertainment,208,46,SilenN,2026-08-29 10:11:26
+49450816,"Show HN: A lightweight, stateless database for agent memory",entertainment,34,12,anuptalwalkar,2026-08-29 10:11:26
+49480266,Show HN: OpenLayer – local Photoshop plugin for ComfyUI (inpaint/outpaint demo),entertainment,5,0,HMUSER,2026-08-29 10:11:26
+49468816,Show HN: Voronoi Go,entertainment,154,26,igpay,2026-08-29 10:11:26
+49467551,"Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",entertainment,86,62,sachinneravath,2026-08-29 10:11:26
+49475159,"Show HN: FnScribe – Open-source, offline dictation for macOS",entertainment,20,14,modagent,2026-08-29 10:11:26
+49452037,Show HN: Build your own theme park,entertainment,52,25,thealexanderlee,2026-08-29 10:11:26
+49465291,Show HN: Restoredrill – proves your Postgres backups restore,entertainment,46,22,ahmadpiran,2026-08-29 10:11:26
+49464459,Show HN: RealDiff – runtime behavior diffing for pull requests (six languages),entertainment,40,10,issacnitin,2026-08-29 10:11:26
